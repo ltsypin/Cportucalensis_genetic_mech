@@ -1,5 +1,7 @@
 # Genetically dissecting the electron transport chain of a soil bacterium reveals a generalizable mechanism for biological phenazine-1-carboxylic acid oxidation.
 
+[![DOI](https://data.caltech.edu/badge/DOI/10.22002/tdng7-twd27.svg)](https://doi.org/10.22002/tdng7-twd27)
+
 Co-authors: Lev MZ Tsypin, Scott H Saunders, Allen W Chen, and Dianne K Newman
 
 All code/data curation by me (Lev).
